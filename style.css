@@ -1,0 +1,23 @@
+boddy{
+  font-family: Arial, sans-serif;
+  backgtround-color: #f4f4f4
+  margin: 0;
+  padding: 0
+  
+}
+
+.container {
+text-align: center;
+  margin-top: 50 px;
+  
+}
+
+h1{
+  color: #33333;
+  
+}
+
+p{
+  color: #666666;
+  
+}
